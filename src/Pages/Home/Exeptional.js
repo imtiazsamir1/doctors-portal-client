@@ -4,7 +4,7 @@ import treatment from "../../assets/images/treatment.png";
 const Exeptional = () => {
   return (
     <div
-      class="card lg:card-side bg-base-100 shadow-xl 
+      class="card lg:card-side bg-base-100 shadow-xl  
     "
     >
       <figure className="m-12">
